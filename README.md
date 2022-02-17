@@ -1,7 +1,8 @@
 
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&width=100%&height=300&section=header&text=WELCOME&fontSize=50&fontColor=f7f5f5&animation=twinkling&fontAlign=80&fontAlignY=60)
 
-<div align=center>
 
 ### 💻 T E C H 💻
 ---
@@ -20,5 +21,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](github.com/Joowon0220/TODO-List)
 
 ---
-[![Solved.ac
-sssin1236](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
